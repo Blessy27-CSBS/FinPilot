@@ -1,0 +1,109 @@
+date,description,merchant,amount,type,category,account,balance
+2026-04-01,Monthly Salary Credit Tech Corp,Tech Corp Solutions,85000,credit,Income,HDFC-Salary,112450
+2026-04-03,House Rent Payment to Prestige Apt,Prestige Properties,24000,debit,Rent,HDFC-Salary,88450
+2026-04-07,BESCOM Electricity Bill Payment,BESCOM,1920,debit,Utilities,HDFC-Salary,86530
+2026-04-10,Water Bill BWSSB Online,BWSSB,450,debit,Utilities,HDFC-Salary,86080
+2026-04-12,Airtel Fiber Broadband Bill,Airtel,1179,debit,Utilities,HDFC-Salary,84901
+2026-04-14,Swiggy Bangalore Order 4821,Swiggy,620,debit,Food,HDFC-Salary,84281
+2026-04-15,Jio 5G Mobile Recharge,Jio,349,debit,Utilities,HDFC-Salary,83932
+2026-04-16,Nature Basket Supermarket Koramangala,Nature's Basket,3420,debit,Groceries,HDFC-Salary,80512
+2026-04-18,Netflix Subscription Standard HD,Netflix,649,debit,Subscription,HDFC-Salary,79863
+2026-04-19,Uber India Ride Tech Park,Uber,380,debit,Transportation,HDFC-Salary,79483
+2026-04-21,Spotify Premium Individual,Spotify,119,debit,Subscription,HDFC-Salary,79364
+2026-04-22,Zomato Food Delivery Dinner,Zomato,740,debit,Food,HDFC-Salary,78624
+2026-04-23,HP Auto Fuel Station Petrol,HP Petrol Pump,2100,debit,Transportation,HDFC-Salary,76524
+2026-04-25,Amazon Prime Membership Monthly,Amazon Prime,299,debit,Subscription,HDFC-Salary,76225
+2026-04-26,Amazon Retail Order Books,Amazon,1450,debit,Shopping,HDFC-Salary,74775
+2026-04-28,Google One 100GB Cloud Storage,Google One,130,debit,Subscription,HDFC-Salary,74645
+2026-04-29,Transfer to Own Savings Acct 8821,Self Transfer,15000,debit,Transfer,HDFC-Salary,59645
+2026-04-30,Apollo Pharmacy Medicines,Apollo Pharmacy,890,debit,Healthcare,HDFC-Salary,58755
+2026-05-01,Monthly Salary Credit Tech Corp,Tech Corp Solutions,85000,credit,Income,HDFC-Salary,143755
+2026-05-03,House Rent Payment to Prestige Apt,Prestige Properties,24000,debit,Rent,HDFC-Salary,119755
+2026-05-07,BESCOM Electricity Bill Payment,BESCOM,2150,debit,Utilities,HDFC-Salary,117605
+2026-05-10,Water Bill BWSSB Online,BWSSB,450,debit,Utilities,HDFC-Salary,117155
+2026-05-12,Airtel Fiber Broadband Bill,Airtel,1179,debit,Utilities,HDFC-Salary,115976
+2026-05-13,Swiggy Bangalore Order 5192,Swiggy,540,debit,Food,HDFC-Salary,115436
+2026-05-15,Jio 5G Mobile Recharge,Jio,349,debit,Utilities,HDFC-Salary,115087
+2026-05-16,Nature Basket Supermarket Indiranagar,Nature's Basket,3850,debit,Groceries,HDFC-Salary,111237
+2026-05-18,Netflix Subscription Standard HD,Netflix,649,debit,Subscription,HDFC-Salary,110588
+2026-05-19,Uber India Ride MG Road,Uber,420,debit,Transportation,HDFC-Salary,110168
+2026-05-21,Spotify Premium Individual,Spotify,119,debit,Subscription,HDFC-Salary,110049
+2026-05-22,Zomato Food Delivery Lunch,Zomato,680,debit,Food,HDFC-Salary,109369
+2026-05-23,HP Auto Fuel Station Petrol,HP Petrol Pump,2250,debit,Transportation,HDFC-Salary,107119
+2026-05-24,HDFC Credit Card Bill AutoDebit,HDFC Card Services,12800,debit,Credit Card Payment,HDFC-Salary,94319
+2026-05-25,Amazon Prime Membership Monthly,Amazon Prime,299,debit,Subscription,HDFC-Salary,94020
+2026-05-27,Flipkart Summer Sale Clothes,Flipkart,3200,debit,Shopping,HDFC-Salary,90820
+2026-05-28,Google One 100GB Cloud Storage,Google One,130,debit,Subscription,HDFC-Salary,90690
+2026-05-30,HDFC Ergo Health Insurance Qtr,HDFC Ergo,3200,debit,Insurance,HDFC-Salary,87490
+2026-06-01,Monthly Salary Credit Tech Corp,Tech Corp Solutions,85000,credit,Income,HDFC-Salary,172490
+2026-06-03,House Rent Payment to Prestige Apt,Prestige Properties,24000,debit,Rent,HDFC-Salary,148490
+2026-06-07,BESCOM Electricity Bill Payment,BESCOM,1840,debit,Utilities,HDFC-Salary,146650
+2026-06-10,Water Bill BWSSB Online,BWSSB,450,debit,Utilities,HDFC-Salary,146200
+2026-06-12,Airtel Fiber Broadband Bill,Airtel,1179,debit,Utilities,HDFC-Salary,145021
+2026-06-13,Swiggy Bangalore Order 5812,Swiggy,780,debit,Food,HDFC-Salary,144241
+2026-06-15,Jio 5G Mobile Recharge,Jio,349,debit,Utilities,HDFC-Salary,143892
+2026-06-16,Nature Basket Groceries Fresh,Nature's Basket,3600,debit,Groceries,HDFC-Salary,140292
+2026-06-17,Swiggy Order Cancellation Refund,Swiggy,420,credit,Refund,HDFC-Salary,140712
+2026-06-18,Netflix Subscription Standard HD,Netflix,649,debit,Subscription,HDFC-Salary,140063
+2026-06-19,Uber Ride Airport Drop,Uber,1450,debit,Transportation,HDFC-Salary,138613
+2026-06-21,Spotify Premium Individual,Spotify,119,debit,Subscription,HDFC-Salary,138494
+2026-06-22,Zomato Food Delivery Dinner,Zomato,890,debit,Food,HDFC-Salary,137604
+2026-06-24,HP Auto Fuel Station Petrol,HP Petrol Pump,2300,debit,Transportation,HDFC-Salary,135304
+2026-06-25,Amazon Prime Membership Monthly,Amazon Prime,299,debit,Subscription,HDFC-Salary,135005
+2026-06-27,Amazon Echo Dot Purchase,Amazon,2999,debit,Shopping,HDFC-Salary,132006
+2026-06-28,Google One 100GB Cloud Storage,Google One,130,debit,Subscription,HDFC-Salary,131876
+2026-06-29,Transfer to Own Savings Acct 8821,Self Transfer,20000,debit,Transfer,HDFC-Salary,111876
+2026-07-01,Monthly Salary Credit Tech Corp,Tech Corp Solutions,85000,credit,Income,HDFC-Salary,196876
+2026-07-03,House Rent Payment to Prestige Apt,Prestige Properties,24000,debit,Rent,HDFC-Salary,172876
+2026-07-07,BESCOM Electricity Bill Payment,BESCOM,2040,debit,Utilities,HDFC-Salary,170836
+2026-07-10,Water Bill BWSSB Online,BWSSB,450,debit,Utilities,HDFC-Salary,170386
+2026-07-12,Airtel Fiber Broadband Bill,Airtel,1179,debit,Utilities,HDFC-Salary,169207
+2026-07-14,Swiggy Bangalore Order 6102,Swiggy,610,debit,Food,HDFC-Salary,168597
+2026-07-15,Jio 5G Mobile Recharge,Jio,349,debit,Utilities,HDFC-Salary,168248
+2026-07-16,Nature Basket Groceries Super,Nature's Basket,3910,debit,Groceries,HDFC-Salary,164338
+2026-07-18,Netflix Subscription Standard HD,Netflix,649,debit,Subscription,HDFC-Salary,163689
+2026-07-19,Uber India Ride Work,Uber,390,debit,Transportation,HDFC-Salary,163299
+2026-07-21,Spotify Premium Individual,Spotify,119,debit,Subscription,HDFC-Salary,163180
+2026-07-22,Zomato Food Delivery Party,Zomato,1250,debit,Food,HDFC-Salary,161930
+2026-07-24,HP Auto Fuel Station Petrol,HP Petrol Pump,2200,debit,Transportation,HDFC-Salary,159730
+2026-07-25,Amazon Prime Membership Monthly,Amazon Prime,299,debit,Subscription,HDFC-Salary,159431
+2026-07-26,Blinkit Instant Groceries Snack,Blinkit,720,debit,Groceries,HDFC-Salary,158711
+2026-07-28,Google One 100GB Cloud Storage,Google One,130,debit,Subscription,HDFC-Salary,158581
+2026-07-29,HDFC Credit Card Bill Payment,HDFC Card Services,15400,debit,Credit Card Payment,HDFC-Salary,143181
+2026-08-01,Monthly Salary Credit Tech Corp,Tech Corp Solutions,85000,credit,Income,HDFC-Salary,228181
+2026-08-03,House Rent Payment to Prestige Apt,Prestige Properties,24000,debit,Rent,HDFC-Salary,204181
+2026-08-07,BESCOM Electricity Bill Payment,BESCOM,1980,debit,Utilities,HDFC-Salary,202201
+2026-08-10,Water Bill BWSSB Online,BWSSB,450,debit,Utilities,HDFC-Salary,201751
+2026-08-12,Airtel Fiber Broadband Bill,Airtel,1179,debit,Utilities,HDFC-Salary,200572
+2026-08-13,Swiggy Bangalore Order 7011,Swiggy,840,debit,Food,HDFC-Salary,199732
+2026-08-14,Zomato Dineout Payment,Zomato,580,debit,Food,HDFC-Salary,199152
+2026-08-14,Zomato Dineout Payment Duplicate,Zomato,580,debit,Food,HDFC-Salary,198572
+2026-08-15,Jio 5G Mobile Recharge,Jio,349,debit,Utilities,HDFC-Salary,198223
+2026-08-16,Nature Basket Groceries Koramangala,Nature's Basket,4120,debit,Groceries,HDFC-Salary,194103
+2026-08-18,Netflix Subscription Standard HD,Netflix,649,debit,Subscription,HDFC-Salary,193454
+2026-08-19,Ola Cabs Ride City Center,Ola,410,debit,Transportation,HDFC-Salary,193044
+2026-08-21,Spotify Premium Individual,Spotify,119,debit,Subscription,HDFC-Salary,192925
+2026-08-22,Zomato Weekend Meal,Zomato,920,debit,Food,HDFC-Salary,192005
+2026-08-23,HP Auto Fuel Station Petrol,HP Petrol Pump,2350,debit,Transportation,HDFC-Salary,189655
+2026-08-25,Amazon Prime Membership Monthly,Amazon Prime,299,debit,Subscription,HDFC-Salary,189356
+2026-08-26,Myntra Festive Wear Kurta,Myntra,2850,debit,Shopping,HDFC-Salary,186506
+2026-08-28,Google One 100GB Cloud Storage,Google One,130,debit,Subscription,HDFC-Salary,186376
+2026-08-29,Transfer to Own Savings Acct 8821,Self Transfer,25000,debit,Transfer,HDFC-Salary,161376
+2026-08-30,HDFC Ergo Health Insurance Qtr,HDFC Ergo,3200,debit,Insurance,HDFC-Salary,158176
+2026-09-01,Monthly Salary Credit Tech Corp,Tech Corp Solutions,85000,credit,Income,HDFC-Salary,243176
+2026-09-03,House Rent Payment to Prestige Apt,Prestige Properties,24000,debit,Rent,HDFC-Salary,219176
+2026-09-04,Croma Electronics Smart Monitor,Croma Electronics,28500,debit,Shopping,HDFC-Salary,190676
+2026-09-07,BESCOM Electricity Bill Payment,BESCOM,2120,debit,Utilities,HDFC-Salary,188556
+2026-09-08,Swiggy Gourmet Dinner Indiranagar,Swiggy,1480,debit,Food,HDFC-Salary,187076
+2026-09-09,Truffles Restaurant Burgers,Truffles Cafe,1250,debit,Food,HDFC-Salary,185826
+2026-09-10,Water Bill BWSSB Online,BWSSB,450,debit,Utilities,HDFC-Salary,185376
+2026-09-11,Chai Point Indiranagar,Chai Point,120,debit,Food,HDFC-Salary,185256
+2026-09-12,Airtel Fiber Broadband Bill,Airtel,1179,debit,Utilities,HDFC-Salary,184077
+2026-09-13,Swiggy Bangalore Quick Order,Swiggy,890,debit,Food,HDFC-Salary,183187
+2026-09-14,Third Wave Coffee Roasters,Third Wave Coffee,480,debit,Food,HDFC-Salary,182707
+2026-09-15,Jio 5G Mobile Recharge,Jio,349,debit,Utilities,HDFC-Salary,182358
+2026-09-16,Nature Basket Groceries Super,Nature's Basket,4400,debit,Groceries,HDFC-Salary,177958
+2026-09-17,Amazon Return Refund Keyboard,Amazon,1499,credit,Refund,HDFC-Salary,179457
+2026-09-18,Netflix Subscription Standard HD,Netflix,649,debit,Subscription,HDFC-Salary,178808
+2026-09-18,Uber India Ride To Office,Uber,350,debit,Transportation,HDFC-Salary,178458
+2026-09-19,Tea Stall Koramangala UPI,Local Tea Stall,40,debit,Food,HDFC-Salary,178418

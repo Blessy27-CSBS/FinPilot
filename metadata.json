@@ -1,0 +1,6 @@
+{
+  "name": "FinPilot",
+  "description": "Personal Finance Decision Support Agent helping users understand financial data, recurring obligations, spending shifts, cash flow, and goals with evidence-backed insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

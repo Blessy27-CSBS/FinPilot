@@ -1,0 +1,219 @@
+@import "tailwindcss";
+
+/* ==========================================================================
+   Comprehensive Light Theme Engine
+   ========================================================================== */
+
+.theme-light {
+  background-color: #f8fafc !important;
+  color: #0f172a !important;
+}
+
+/* Backgrounds - Cards, Panels, Drawers, Modals */
+.theme-light [class*="bg-slate-900"] {
+  background-color: #ffffff !important;
+  border-color: #e2e8f0 !important;
+}
+
+.theme-light [class*="bg-slate-950"] {
+  background-color: #f8fafc !important;
+  border-color: #e2e8f0 !important;
+}
+
+.theme-light [class*="bg-slate-800"] {
+  background-color: #f1f5f9 !important;
+  border-color: #e2e8f0 !important;
+}
+
+.theme-light [class*="bg-slate-700"] {
+  background-color: #e2e8f0 !important;
+  border-color: #cbd5e1 !important;
+}
+
+/* Modal and Drawer Backdrops */
+.theme-light [class*="bg-black"] {
+  background-color: rgb(15 23 42 / 0.45) !important;
+}
+
+/* Gradients that used dark slate stops */
+.theme-light [class*="bg-gradient-to-br"][class*="from-slate-900"],
+.theme-light [class*="bg-gradient-to-r"][class*="from-slate-900"] {
+  background-image: linear-gradient(135deg, #ffffff 0%, #f8fafc 50%, #f0fdfa 100%) !important;
+  border-color: #bae6fd !important;
+}
+
+/* Borders */
+.theme-light [class*="border-slate-800"],
+.theme-light [class*="border-slate-900"] {
+  border-color: #e2e8f0 !important;
+}
+
+.theme-light [class*="border-slate-700"] {
+  border-color: #cbd5e1 !important;
+}
+
+.theme-light [class*="divide-slate-800"] > * + *,
+.theme-light .divide-slate-800 > :not([hidden]) ~ :not([hidden]) {
+  border-color: #e2e8f0 !important;
+}
+
+/* Text hierarchy */
+.theme-light .text-white {
+  color: #0f172a !important;
+}
+
+.theme-light [class*="text-slate-100"],
+.theme-light [class*="text-slate-200"] {
+  color: #1e293b !important;
+}
+
+.theme-light [class*="text-slate-300"] {
+  color: #334155 !important;
+}
+
+.theme-light [class*="text-slate-400"] {
+  color: #475569 !important;
+}
+
+.theme-light [class*="text-slate-500"] {
+  color: #64748b !important;
+}
+
+/* Progress bar background tracks */
+.theme-light .rounded-full[class*="bg-slate-800"] {
+  background-color: #e2e8f0 !important;
+}
+
+/* Radial score background */
+.theme-light .rounded-full.border-4[class*="bg-slate-800"] {
+  background-color: #f1f5f9 !important;
+  border-color: #0284c7 !important;
+}
+
+/* Code & Formula Displays */
+.theme-light .font-mono[class*="bg-slate-900"],
+.theme-light .font-mono[class*="bg-slate-950"],
+.theme-light .font-mono[class*="bg-slate-800"] {
+  background-color: #f1f5f9 !important;
+  color: #0369a1 !important;
+  border-color: #cbd5e1 !important;
+}
+
+/* Semantic Badges & Pills */
+.theme-light [class*="bg-cyan-950"] {
+  background-color: #e0f2fe !important;
+  border-color: #bae6fd !important;
+}
+.theme-light [class*="text-cyan-300"],
+.theme-light [class*="text-cyan-400"] {
+  color: #0284c7 !important;
+}
+.theme-light [class*="border-cyan-800"],
+.theme-light [class*="border-cyan-900"] {
+  border-color: #bae6fd !important;
+}
+
+.theme-light [class*="bg-emerald-950"] {
+  background-color: #dcfce7 !important;
+  border-color: #bbf7d0 !important;
+}
+.theme-light [class*="text-emerald-300"],
+.theme-light [class*="text-emerald-400"] {
+  color: #16a34a !important;
+}
+.theme-light [class*="border-emerald-800"] {
+  border-color: #bbf7d0 !important;
+}
+
+.theme-light [class*="bg-rose-950"] {
+  background-color: #ffe4e6 !important;
+  border-color: #fecdd3 !important;
+}
+.theme-light [class*="text-rose-300"],
+.theme-light [class*="text-rose-400"] {
+  color: #e11d48 !important;
+}
+.theme-light [class*="border-rose-800"] {
+  border-color: #fecdd3 !important;
+}
+
+.theme-light [class*="bg-amber-950"] {
+  background-color: #fef3c7 !important;
+  border-color: #fde68a !important;
+}
+.theme-light [class*="text-amber-300"],
+.theme-light [class*="text-amber-400"] {
+  color: #d97706 !important;
+}
+.theme-light [class*="border-amber-800"] {
+  border-color: #fde68a !important;
+}
+
+.theme-light [class*="bg-indigo-950"] {
+  background-color: #e0e7ff !important;
+  border-color: #c7d2fe !important;
+}
+.theme-light [class*="text-indigo-300"],
+.theme-light [class*="text-indigo-400"] {
+  color: #4f46e5 !important;
+}
+.theme-light [class*="border-indigo-800"] {
+  border-color: #c7d2fe !important;
+}
+
+.theme-light [class*="bg-purple-950"] {
+  background-color: #f3e8ff !important;
+  border-color: #e9d5ff !important;
+}
+.theme-light [class*="text-purple-300"],
+.theme-light [class*="text-purple-400"] {
+  color: #7e22ce !important;
+}
+.theme-light [class*="border-purple-800"] {
+  border-color: #e9d5ff !important;
+}
+
+/* Interactive Elements */
+.theme-light header {
+  background-color: #ffffff !important;
+  border-bottom-color: #e2e8f0 !important;
+}
+
+.theme-light select,
+.theme-light input,
+.theme-light textarea {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #cbd5e1 !important;
+}
+
+.theme-light select option {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+}
+
+.theme-light footer {
+  background-color: #f8fafc !important;
+  border-top-color: #e2e8f0 !important;
+  color: #64748b !important;
+}
+
+/* Hover States */
+.theme-light [class*="hover:bg-slate-800"]:hover,
+.theme-light [class*="hover:bg-slate-700"]:hover {
+  background-color: #e2e8f0 !important;
+  color: #0f172a !important;
+}
+
+.theme-light [class*="hover:text-white"]:hover {
+  color: #0f172a !important;
+}
+
+.theme-light [class*="hover:text-slate-200"]:hover {
+  color: #1e293b !important;
+}
+
+.theme-light tr[class*="hover:bg-slate-800"]:hover {
+  background-color: #f8fafc !important;
+}
+
